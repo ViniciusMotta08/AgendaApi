@@ -1,0 +1,15 @@
+C:\Users\viniciusm\source\repos\AgendaApiDDD\Agenda.Infra\obj\Debug\net7.0\Agenda.Infra.csproj.AssemblyReference.cache
+C:\Users\viniciusm\source\repos\AgendaApiDDD\Agenda.Infra\obj\Debug\net7.0\Agenda.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viniciusm\source\repos\AgendaApiDDD\Agenda.Infra\obj\Debug\net7.0\Agenda.Infra.AssemblyInfoInputs.cache
+C:\Users\viniciusm\source\repos\AgendaApiDDD\Agenda.Infra\obj\Debug\net7.0\Agenda.Infra.AssemblyInfo.cs
+C:\Users\viniciusm\source\repos\AgendaApiDDD\Agenda.Infra\obj\Debug\net7.0\Agenda.Infra.csproj.CoreCompileInputs.cache
+C:\Users\viniciusm\source\repos\AgendaApiDDD\Agenda.Infra\bin\Debug\net7.0\Agenda.Infra.deps.json
+C:\Users\viniciusm\source\repos\AgendaApiDDD\Agenda.Infra\bin\Debug\net7.0\Agenda.Infra.dll
+C:\Users\viniciusm\source\repos\AgendaApiDDD\Agenda.Infra\bin\Debug\net7.0\Agenda.Infra.pdb
+C:\Users\viniciusm\source\repos\AgendaApiDDD\Agenda.Infra\bin\Debug\net7.0\Agenda.Domain.dll
+C:\Users\viniciusm\source\repos\AgendaApiDDD\Agenda.Infra\bin\Debug\net7.0\Agenda.Domain.pdb
+C:\Users\viniciusm\source\repos\AgendaApiDDD\Agenda.Infra\obj\Debug\net7.0\Agenda.Infra.csproj.CopyComplete
+C:\Users\viniciusm\source\repos\AgendaApiDDD\Agenda.Infra\obj\Debug\net7.0\Agenda.Infra.dll
+C:\Users\viniciusm\source\repos\AgendaApiDDD\Agenda.Infra\obj\Debug\net7.0\refint\Agenda.Infra.dll
+C:\Users\viniciusm\source\repos\AgendaApiDDD\Agenda.Infra\obj\Debug\net7.0\Agenda.Infra.pdb
+C:\Users\viniciusm\source\repos\AgendaApiDDD\Agenda.Infra\obj\Debug\net7.0\ref\Agenda.Infra.dll
