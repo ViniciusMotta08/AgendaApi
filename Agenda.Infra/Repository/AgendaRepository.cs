@@ -1,7 +1,5 @@
-﻿using Agenda.Aplication.Interfaces;
-using Agenda.Domain.Entities;
-using Agenda.Infra.Data;
-using Dapper;
+﻿using Agenda.Domain.Entities;
+using Agenda.Domain.Interfaces;
 using Dapper.Contrib.Extensions;
 using System.Data;
 

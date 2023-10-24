@@ -1,6 +1,6 @@
 ﻿using Agenda.Domain.Entities;
 
-namespace Agenda.Aplication.Interfaces
+namespace Agenda.Domain.Interfaces
 {
     public interface IAgendaRepository
     {

@@ -1,6 +1,5 @@
-﻿using Agenda.Aplication.Interfaces;
-using Agenda.Domain.Entities;
-using Microsoft.AspNetCore.Http;
+﻿using Agenda.Domain.Entities;
+using Agenda.Domain.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AgendaDDD.Controllers
